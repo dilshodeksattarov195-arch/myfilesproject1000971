@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderfarse",
+        "uuid": 3391703,
+        "checksum": "u45x5e"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
